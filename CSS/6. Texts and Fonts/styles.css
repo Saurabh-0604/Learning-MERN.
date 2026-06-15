@@ -1,0 +1,16 @@
+h1 {
+  color: palevioletred;
+  background-color: aliceblue;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+p {
+ 
+  text-align: justify;
+  text-indent: 80px;
+  line-height: 1.2em;
+  word-spacing: 10px;
+  color: transparent;
+  text-shadow: 3px 3px 1px rebeccapurple;
+}

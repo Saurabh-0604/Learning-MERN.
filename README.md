@@ -4,6 +4,7 @@ A comprehensive repository documenting my journey through modern web development
 
 ## 📂 Repository Structure
 
+
 ```
 React-Learning/
 │
@@ -34,17 +35,29 @@ React-Learning/
 │   ├── DOM Manipulation
 │   └── Event Handling
 │
-└── 4.React/
-    ├── React Basics
-    ├── Vite + React
-    ├── Custom React
-    ├── Hooks
-    ├── Password Generator
-    ├── Background Changer
-    ├── Context API
-    ├── Theme Changer
-    ├── Todo App
-    └── React Router
+├── 4.React/
+│   ├── React Basics
+│   ├── Vite + React
+│   ├── Custom React
+│   ├── Hooks
+│   ├── Password Generator
+│   ├── Background Changer
+│   ├── Context API
+│   ├── Theme Changer
+│   ├── Todo App
+│   └── React Router
+│
+└── 5.Nodejs/
+    ├── Node.js Basics
+    ├── Modules
+    ├── File System (fs)
+    ├── Creating HTTP Server
+    ├── Request & Response Handling
+    ├── Routing
+    ├── File Handling
+    ├── User Data Storage
+    └── Node To-Do List
+
 ```
 
 ## 🛠 Technologies Used
@@ -105,6 +118,21 @@ React-Learning/
 * Tailwind CSS
 * Project-based learning
 
+
+### Node.js
+
+* Node.js Fundamentals
+* Modules
+* File System (`fs`)
+* HTTP Server
+* Request & Response
+* Routing
+* Serving HTML
+* File Handling
+* Building REST-style Applications
+* Project-based learning
+
+
 ## 🚀 Running React Projects
 
 Navigate to any React project folder:
@@ -114,6 +142,15 @@ cd 4.React/<project-folder>
 npm install
 npm run dev
 ```
+
+### 🚀 Running Node.js Projects
+
+Navigate to any Node.js project folder:
+
+```bash
+cd 5.Nodejs/<project-folder>
+npm install
+node index.js
 
 ## 🎯 Purpose
 

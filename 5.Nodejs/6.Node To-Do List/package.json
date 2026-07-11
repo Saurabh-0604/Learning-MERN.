@@ -1,0 +1,24 @@
+{
+  "name": "to-do-list-server",
+  "version": "1.0.0",
+  "description": "to do list application with nodemonserver",
+  "homepage": "https://github.com/Saurabh-0604/React-Learning#readme",
+  "bugs": {
+    "url": "https://github.com/Saurabh-0604/React-Learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabh-0604/React-Learning.git"
+  },
+  "license": "ISC",
+  "author": "\"saurabh gupta\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

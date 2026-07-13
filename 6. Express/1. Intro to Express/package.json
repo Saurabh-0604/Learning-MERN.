@@ -1,0 +1,25 @@
+{
+  "name": "1.-intro-to-express",
+  "version": "1.0.0",
+  "description": "server with express",
+  "homepage": "https://github.com/Saurabh-0604/Learning-MERN.#readme",
+  "bugs": {
+    "url": "https://github.com/Saurabh-0604/Learning-MERN./issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabh-0604/Learning-MERN..git"
+  },
+  "license": "ISC",
+  "author": "Saurabh Gupta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "dev" : "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}

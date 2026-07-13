@@ -17,6 +17,3 @@
     DELETE      => Deleting the data from the server
     PATCH       => Update certain feilds
     PUT         => Overwriting / Full update
-
-
-## 
